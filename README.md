@@ -1,8 +1,1 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is a simple card that has buttons that do something that changes the value on screen and shake another thing and it's pointless but I did it to test and practice how to pass props from parent to buttons as well as an image element. I could have used just the handleButtonClick handler to also make the image shake, but I wanted to test and practice use of useEffect as well. Enjoy!
